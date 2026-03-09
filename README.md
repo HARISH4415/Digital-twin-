@@ -8,7 +8,7 @@ A Flutter-based digital twin application developed by HARISH4415. This cross-pla
 
 ## 📱 Project Overview
 
-**scalptamizhan** is a Flutter application that demonstrates digital twin concepts through mobile technology. The project leverages Flutter's cross-platform capabilities to deliver a seamless experience across Android, iOS, Web, Windows, Linux, and macOS platforms.
+**Digital Twin** is a Flutter application that demonstrates digital twin concepts through mobile technology. The project leverages Flutter's cross-platform capabilities to deliver a seamless experience across Android, iOS, Web, Windows, Linux, and macOS platforms.
 
 ## ✨ Features
 
